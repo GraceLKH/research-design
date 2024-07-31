@@ -1,61 +1,90 @@
-<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
 # NABC Model: Project Proposal Template
 
 ## Project Title
-*Your project title goes here.*
+Temporal Analysis of Climatic Influences on Forest Fire Patterns in Peninsular Malaysia Using Statistical Method
 
 ## Introduction
-*A brief introduction to the project and its relevance.*
-
-## Team Members (Optional)
-*List of team members, if applicable.*
+Forest fires in Peninsular Malaysia pose a significant threat to the environment, biodiversity, and human health. Understanding the temporal patterns of these fires and their relationship with climatic variables is crucial for developing effective prevention and mitigation strategies. This project aims to analyze the influence of climatic factors on forest fire occurrences in Peninsular Malaysia using advanced statistical methods.
 
 ## 1. Need
-* Define the specific problem your project aims to solve.
-* Explain the impact of the problem and why it is important to address.
-* Identify the stakeholders affected by this problem.
-* Mention any relevant data sources you might use.
+Forest fires in Peninsular Malaysia have been increasingly frequent and intense, driven by climatic changes. The problem lies in the lack of comprehensive analysis that links climatic variables to fire occurrences, making it difficult for policymakers and stakeholders to develop targeted strategies for fire prevention and management.
+
+### Impact of the Problem
+Forest fires contribute to deforestation, loss of biodiversity, air pollution, and climate change. They also pose risks to human health and safety, affecting local communities and economies.
+
+### Stakeholders
+Government agencies, environmental organizations, local communities, researchers, and policymakers.
+
+### Relevant Data Sources
+Historical forest fire records, climatic data (temperature, humidity, precipitation), satellite imagery, and meteorological reports.
 
 ## 2. Approach
-* Provide a detailed description of your proposed solution.
-* Outline how you will use data science techniques to solve the problem.
-* List the data science tools, algorithms, or methods you plan to employ.
-* Describe the steps of your approach, including data acquisition, pre-processing, analysis, etc.
+Utilize data science techniques to perform a temporal analysis of forest fire patterns and their correlation with climatic variables. The approach involves several steps:
+
+### 1.	Data Science Techniques:
+-	Time-series analysis, regression analysis, correlation analysis, and machine learning algorithms for pattern recognition and prediction.
+  
+### 2.	Data Science Tools and Methods:
+-	Data acquisition: Collecting historical forest fire data and climatic data from reliable sources.
+-	Pre-processing: Cleaning and normalizing the data to remove inconsistencies and prepare it for analysis.
+-	Analysis: Employing statistical methods to identify trends, correlations, and causative factors.
+-	Visualization: Creating interactive visualizations to present findings and support decision-making.
+  
+### 3.	Steps of the Approach:
+-	Data Acquisition: Gather historical data on forest fire occurrences and relevant climatic variables.
+-	Data Pre-processing: Clean and normalize the data, handle missing values, and conduct feature engineering.
+-	Data Analysis: Conduct exploratory data analysis (EDA) to identify initial trends and patterns. Apply statistical methods (e.g., time series analysis, regression models) to determine the relationship between climatic variables and forest fire occurrences.
+-	Prediction: Develop machine learning models to predict future fire occurrences based on climatic trends.
+-	Validation: Validate the models using historical data to assess their accuracy and reliability.
+-	Visualization: Create dashboards and visual reports to present findings and support stakeholders in decision-making.
 
 ## 3. Benefit Over Cost
-* Describe the expected benefits of your solution.
-* Explain how your solution is better than existing ones.
-* Discuss both tangible and intangible benefits.
-* Outline the potential costs and show how the benefits outweigh them.
+### Expected Benefits
+-	Enhanced understanding of the relationship between climatic factors and forest fire occurrences.
+-	Improved ability to predict and prevent forest fires, reducing ecological and economic damage.
+-	Data-driven insights to inform policy and strategic planning for forest fire management.
+  
+### Comparative Advantage
+-	The use of advanced statistical methods provides a more accurate and comprehensive analysis compared to traditional approaches.
+-	Real-time data visualization aids in immediate decision-making and policy formulation.
+  
+### Tangible Benefits
+-	Reduced incidence and impact of forest fires.
+-	Cost savings in fire prevention and management efforts.
+  
+### Intangible Benefits
+-	Increased public awareness and engagement in forest fire prevention.
+-	Enhanced environmental conservation and sustainability.
+  
+### Costs and Benefits Analysis
+-	Initial costs include data acquisition, tool development, and analysis.
+-	Long-term benefits significantly outweigh costs due to improved fire management, reduced damage, and better policy formulation.
 
 ## 4. Competition
-* Analyze existing solutions that address the same problem.
-* Discuss their strengths and weaknesses.
-* Explain how your solution is different and better.
-* Describe the novel angle your data science approach brings.
+### Existing Solutions
+-	Traditional fire management strategies based on historical data and empirical knowledge.
+-	Basic correlation studies between climate and fire occurrences without advanced statistical methods.
   
+### Strengths and Weaknesses
+-	Traditional methods are simple and based on experience but lack predictive accuracy and comprehensive analysis.
+-	Basic correlation studies provide initial insights but do not account for complex interactions and temporal patterns.
+  
+### Differentiation
+-	Our approach uses advanced statistical and machine learning techniques to provide a more detailed and accurate analysis.
+-	The inclusion of real-time data visualization offers immediate insights and supports proactive decision-making.
+  
+### Novel Angle
+-	The combination of time-series analysis, regression models, and machine learning offers a unique and robust approach to understanding and predicting forest fire patterns.
+
 ## 5. Visualisation
-Visualisation of Your Approach (Draw/Sketch diagram to show your proposed solution):
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/da562885-bd41-4e89-b644-a656d17ebcf2"  height="400" />
+</p>
+
+<p align="center">
+Research Framework
+</p>
 
 ## Conclusion
-*A summary of your proposal and its potential impact.*
-
-## References
-*A list of references and sources used in your proposal.*
-
-
-This template provides a structured format for your NABC Model document. You can fill in each section with the details of your data science project proposal. Good luck with your project! 🌟
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
-
-
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+This proposal outlines a data-driven approach to analysing and understanding the temporal patterns of forest fires in Peninsular Malaysia and their relationship with climatic factors. By leveraging advanced statistical methods and machine learning techniques, this project aims to provide valuable insights and predictive capabilities to support effective forest fire management and prevention strategies.
